@@ -51,4 +51,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=zidane-sc">
 </a>
-<a href="https://github.com/zidane-sc?tab=followers"><img src="https://img.shields.io/github/followers/titikkoma88?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/zidane-sc?tab=followers"><img src="https://img.shields.io/github/followers/zidane-sc?label=Followers&style=social" alt="GitHub Badge"></a>
