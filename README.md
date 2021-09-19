@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **[Grootech](http://grootech.id/)**
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **ADONIS JS**
 - 💬 Ask me about **Laravel**
 - 📫 Reach me at: **zidanesc02@gmail.com**
 - ⚡ Fun fact **My last name is just Sc, that's all**
