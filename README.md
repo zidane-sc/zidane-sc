@@ -5,9 +5,9 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[Grootech](http://grootech.id/)**
-- 🌱 I’m currently learning **ADONIS JS**
-- 💬 Ask me about **Laravel**
+- 🔭 I’m currently internship on **[Jabar Digital Service](https://digitalservice.jabarprov.go.id/)**
+- 🌱 I’m currently learning **Nest Js**
+- 💬 Ask me about **Anything** I'll answer if i can
 - 📫 Reach me at: **zidanesc02@gmail.com**
 - ⚡ Fun fact **My last name is just Sc, that's all**
 
