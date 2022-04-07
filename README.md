@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **My last name is just Sc, that's all**
 
+- 💖 Love to help someone
+
 ## 📊 My Github Stats
 <br/>
 <p align="left">
