@@ -6,7 +6,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently internship on **[Jabar Digital Service](https://digitalservice.jabarprov.go.id/)**
+<!-- - 🔭 I’m currently internship on **[Jabar Digital Service](https://digitalservice.jabarprov.go.id/)** -->
 
 <!-- - 🌱 I’m currently learning **Nest Js** -->
 
