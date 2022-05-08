@@ -86,6 +86,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#39](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/39) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
+2. 💪 Opened PR [#39](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/39) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
+3. 🎉 Merged PR [#37](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/37) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
+4. 💪 Opened PR [#37](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/37) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
+5. 🎉 Merged PR [#35](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/35) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
 <!--END_SECTION:activity-->
 
 
