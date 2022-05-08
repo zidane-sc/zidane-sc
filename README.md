@@ -83,6 +83,11 @@
 
 <br/>
 
+## Recent Activity⚡
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
