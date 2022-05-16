@@ -71,7 +71,7 @@
 <a href="https://aws.amazon.com/id/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="amazon" width="40" height="40" /></a>
         <a href="www.heroku.com" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png" alt="heroku" width="40" height="40" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://www.kubernetes.com/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Fkubernetesio&psig=AOvVaw0y_AL3toRiWNrq5EMk6ECF&ust=1653982845310000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKixobPchvgCFQAAAAAdAAAAABAD" alt="kubernetes" width="40" height="40" /></a>
+  <a href="https://www.kubernetes.com/" target="_blank"><img src="https://pbs.twimg.com/card_img/1526662477920206848/Fv5SgFdw?format=png&name=small" alt="kubernetes" width="40" height="40" /></a>
 </p>
   
 <br/>
