@@ -62,7 +62,7 @@
  <p>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://www.postgresql.com/" target="_blank"><img src="https://4.bp.blogspot.com/-XAaaf2U1Dnw/WCFhgXcGH6I/AAAAAAAAA_Q/VfnIT2LtiZEwZWk0xZt_JtkBiicS3NeSACLcB/s1600/postgresql.png" alt="postgreSQL" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://4.bp.blogspot.com/-XAaaf2U1Dnw/WCFhgXcGH6I/AAAAAAAAA_Q/VfnIT2LtiZEwZWk0xZt_JtkBiicS3NeSACLcB/s1600/postgresql.png" alt="postgreSQL" width="40" height="40" /></a>
  </p>
   
 ### Tools⚒️
