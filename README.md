@@ -12,7 +12,7 @@
     <td valign="center" width="70%">
 <!-- 🌱 I’m currently learning **Nest Js** -->
 
-🏢 I’m currently working on **[Usedeall](https://usedeall.com//)** as a Software Engineer
+🏢 I’m currently working on **[Dealls](https://dealls.com//)** as a Software Engineer
       
 🎯 My Goal is to make a project that have an **impact on society**.
     
