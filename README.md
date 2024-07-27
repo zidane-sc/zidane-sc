@@ -32,7 +32,7 @@
   </tr>
   </table>
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zidane-sc&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zidane-sc&theme=dracula&hide_border=true) -->
 
 ## Connect with me
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zidanesc02)
