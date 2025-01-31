@@ -26,7 +26,7 @@
 
       
 <td width="30%">
-        <a href="https://app.daily.dev/zidanesc"><img src="https://api.daily.dev/devcards/4b7c2301e3a646aebe175e6b50064eeb.png?r=stk" width="400" alt="Muhammad Zidane sc's Dev Card"/></a>
+  <a href="https://app.daily.dev/supernovaaa"><img src="https://api.daily.dev/devcards/v2/SC4jzKE1HWzgtM8cYgv8o.png?r=umr&type=default" width="356" alt="Muhammad Zidane Sc's Dev Card"/></a>
     </td>
     
   </tr>
