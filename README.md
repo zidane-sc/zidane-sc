@@ -1,116 +1,71 @@
+# Muhammad Zidane Sc
+### Software Engineer · Backend & Platform Systems
 
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+I build backend services, integrations, and operational software—and the full-stack interfaces that make them useful.
 
-<h1 align="left" style="">Hello Internet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad <i>Zidane</i> Sc</h1>
-<h3 align="right">~ Software Engineer</h3>
+Based in **Bekasi, Indonesia**. Working with **Go, TypeScript/Node.js, and PostgreSQL**, with professional software delivery experience since 2020 across recruitment, HRIS, retail operations, manufacturing, and industrial monitoring.
 
+[LinkedIn](https://www.linkedin.com/in/zidane-sc/) · [Email](mailto:zidanesc02@gmail.com) · [Writing](https://medium.com/@zidanesc02)
 
-## 🙋‍♂️ About Me
+---
 
-<table width="100%">
-  <tr width="100%">
-    <td valign="center" width="70%">
-<!-- 🌱 I’m currently learning **Nest Js** -->
+## What I work on
 
-🏢 I’m currently working on **[Dealls](https://dealls.com//)** as a Software Engineer
-      
-🎯 My Goal is to make a project that have an **impact on society**.
-    
-💬 Ask me about **Anything**,  I'll help you as best as I can
+- **Backend & platform engineering:** API design, microservices, asynchronous workers, data modeling, and cross-service integrations.
+- **Search & AI workflows:** Elasticsearch analyzers and recommendations, Gemini/OCR integrations, structured CV extraction, and background document processing.
+- **Business-critical integrations:** Payment gateways, billing/webhooks, external job boards, Google Calendar/Workspace, and transactional messaging.
+- **Reliability & security:** Query profiling, indexing, migrations, access control, webhook verification, authentication, and production debugging.
+- **Full-stack delivery:** Operational dashboards and product interfaces using React/Next.js, backed by Go, Node.js, or Laravel.
 
-📫 Reach me at: **zidanesc02@gmail.com**
+## Experience, in brief
 
-⚡ Fun fact **My last name is just Sc, that's all**
+**Dealls & KantorKu — Squad Lead (Backend)**  
+Previously Backend Engineer; part of the engineering team since May 2022.
 
-💖 Love to help
+My work spans job search and matching, AI CV processing, ATS integrations, mentoring workflows, payments, and enterprise HRIS. I author API/database designs and technical specifications alongside hands-on implementation and cross-functional delivery.
 
-      
-<td width="30%">
-  <a href="https://app.daily.dev/supernovaaa"><img src="https://api.daily.dev/devcards/v2/SC4jzKE1HWzgtM8cYgv8o.png?r=umr&type=default" width="356" alt="Muhammad Zidane Sc's Dev Card"/></a>
-    </td>
-    
-  </tr>
-  </table>
-  
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zidane-sc&theme=dracula&hide_border=true) -->
+**Thinkedge — Co-Founder & Core Engineer**  
+Building client and product systems across industrial environmental monitoring, dental operations, and community waste-management workflows.
 
-## Connect with me
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zidanesc02)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zidane-sc)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ScZidane) -->
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zidane-sc) -->
-<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/438594052514906112/) -->
-<!-- youtube, hackerrank, leetcode,  instagram, codepen, codechef -->
+**Versamorph — Core Systems Engineer**  
+Working on the Maritime Integrated Port Simulator and live-stream donation overlay workflows.
 
-## Technologies⚙️
+Earlier work includes manufacturing ERP, asset maintenance, assessment platforms, community applications, and industrial monitoring systems.
 
-### Languages And Frameworks✍🏼
+## Selected projects
 
-<p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-    <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
-    <a href="http://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40" /></a>
-    <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40" /></a>
-</p>
-  
-### Database💾
- <p>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://4.bp.blogspot.com/-XAaaf2U1Dnw/WCFhgXcGH6I/AAAAAAAAA_Q/VfnIT2LtiZEwZWk0xZt_JtkBiicS3NeSACLcB/s1600/postgresql.png" alt="postgreSQL" width="40" height="40" /></a>
-  <a href="https://www.redis.io" target="_blank"><img src="https://kelolaserver.com/wp-content/uploads/2019/01/redis.png" alt="postgreSQL" width="40" height="40" /></a>
- </p>
-  
-### Tools⚒️
+### [Atlas](https://github.com/zidane-sc/Atlas) · RPG Task Manager & MCP Server
+Turn work into quests, XP, and levels. A gamified task manager with a custom **Model Context Protocol** endpoint that lets AI agents create and update quests programmatically.
 
-<p>
- <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
-<a href="https://aws.amazon.com/id/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="amazon" width="40" height="40" /></a>
-        <a href="www.heroku.com" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png" alt="heroku" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://pbs.twimg.com/card_img/1526662477920206848/Fv5SgFdw?format=png&name=small" alt="kubernetes" width="40" height="40" /></a>
-</p>
-  
-<br/>
+`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `MCP`
 
+### [Tebak Lagu](https://github.com/zidane-sc/tebak-lagu) · Multiplayer Audio Trivia
+Real-time multiplayer rooms and interactive audio trivia, combining shared game state with browser audio interactions.
 
-## 📊 My Github Stats
+`TypeScript` · `WebSockets` · `LibSQL/Turso` · `Web Audio API`
 
-<p align="center"> <img width="40%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zidane-sc&hide=html&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="zidane-sc" />  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=zidane-sc&show_icons=true&theme=algolia&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="zidane-sc" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zidane-sc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="zidane-sc" /> </p>
+### [PCX Telemetry](https://github.com/zidane-sc/pcx-telemetry-app) · Motorcycle Telemetry & Diagnostics
+A mobile telemetry and diagnostic application for the Honda PCX 160, connecting my software work with an interest in IoT.
 
-<br/>
+`Flutter` · `Dart` · `PocketBase`
 
-## Recent Activity⚡
+## Engineering toolkit
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/39) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
-2. 💪 Opened PR [#39](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/39) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
-3. 🎉 Merged PR [#37](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/37) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
-4. 💪 Opened PR [#37](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/37) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
-5. 🎉 Merged PR [#35](https://github.com/jabardigitalservice/groupware-whitelabel-api/pull/35) in [jabardigitalservice/groupware-whitelabel-api](https://github.com/jabardigitalservice/groupware-whitelabel-api)
-<!--END_SECTION:activity-->
+| Area | Technologies & practices |
+| --- | --- |
+| Languages | Go, TypeScript/JavaScript, PHP, SQL |
+| Backend | Node.js, NestJS, Express, Go Fiber, Laravel; REST, gRPC, Clean Architecture |
+| Data & search | PostgreSQL, MongoDB, Redis, MySQL, Elasticsearch; indexing, query optimization, migrations |
+| Async & infrastructure | Kafka, Pub/Sub, Bull/BullMQ, Docker, Kubernetes, GCP, AWS S3 |
+| Product & integrations | React, Next.js, Prisma, WebSockets, MCP, payment gateways, webhooks, Gemini/OCR |
+| Delivery | API/system design, integration testing, root cause analysis, RBAC, authentication |
 
+## Beyond the code
 
-## Here is a random joke for you!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
-</div>
+- **Google Cloud Career Launchpad Student Mentor:** mentored 79 university students across cloud and AI tracks in 2024.
+- Studying **Information Systems at Universitas Bina Sarana Informatika**, with a GPA of **3.9/4.0**.
+- Interested in practical tools that solve real operational problems, realtime experiences, and AI-assisted engineering.
 
+Want to talk backend systems, integrations, or a project? **[Get in touch](mailto:zidanesc02@gmail.com).**
 
-
-<p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
-</p>
-<br>
-
-## ❤ Visitor and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=zidane-sc">
-</a>
-<a href="https://github.com/zidane-sc?tab=followers"><img src="https://img.shields.io/github/followers/zidane-sc?label=Followers&style=social" alt="GitHub Badge"></a>
+<sub>And yes—my last name is just “Sc”.</sub>
